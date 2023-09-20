@@ -8,3 +8,7 @@ npm i nodemon -D  //nodemon is a tool that helps you automatically restart your 
     "start": "node server",
     "dev": "nodemon server",
   },
+
+npm i date-fns uuid
+
+npm i cookie-parser
